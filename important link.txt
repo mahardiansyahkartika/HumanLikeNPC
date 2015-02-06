@@ -1,0 +1,8 @@
+http://pogamut.cuni.cz/main/tiki-index.php?page=About
+http://nn.cs.utexas.edu/?ut2
+http://pogamut.cuni.cz/pogamut_files/latest/doc/tutorials/pt02.html
+http://diana.ms.mff.cuni.cz/maven-sites/pogamut/3.3.0-SNAPSHOT/pogamut-udk/apidocs/overview-summary.html
+http://pogamut.cuni.cz/pogamut_files/latest/doc/gamebots/GB04_user_documentation.html
+http://botprize.org/
+https://artemis.ms.mff.cuni.cz/pogamut/tiki-view_forum.php?forumId=3
+http://diana.ms.mff.cuni.cz/maven-sites/pogamut/3.3.0-SNAPSHOT/pogamut-udk/apidocs/cz/cuni/amis/pogamut/udk/communication/messages/GBEvent.html
